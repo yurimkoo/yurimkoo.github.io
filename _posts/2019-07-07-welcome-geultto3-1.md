@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2019년의 절반이 지났다"
+author: Yurim Koo
 categories:
   - Diary
 tags:
