@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: yurimkoo
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -70,19 +70,19 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: false
+  # - name: Twitter
+  #   icon: twitter
+  #   username: TheBenCentra
+  #   url: https://twitter.com/TheBenCentra
+  #   desc: Follow me on Twitter
+  #   share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: false
+    share: true
 
   - name: GitHub
     icon: github
@@ -117,7 +117,7 @@ social:
     username:
     url:
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
