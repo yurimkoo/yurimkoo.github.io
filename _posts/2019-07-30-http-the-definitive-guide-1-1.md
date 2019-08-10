@@ -23,8 +23,8 @@ comments: true
 <br>
 
 ------
-# 1장. HTTP: 웹의 기초 
-## 1부. HTTP 개관
+# 1부. HTTP: 웹의 기초 
+## 1장. HTTP 개관
 
 <br>
 ### 1.1 HTTP란?
