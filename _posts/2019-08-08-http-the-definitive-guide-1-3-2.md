@@ -33,7 +33,7 @@ comments: true
 # 1부. HTTP: 웹의 기초 
 ## 3장. HTTP 메시지  
 
-(1)편과 이어집니다.
+(1)편과 이어집니다.  
 [HTTP 완벽 가이드 [1-3] - HTTP 메시지 - (1)](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-3-1.html) 편 바로가기  
 
 <br>
