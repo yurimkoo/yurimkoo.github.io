@@ -206,6 +206,6 @@ Content-Length: 8572 </code></pre>
 <br>
 
 (2)편에서 계속됩니다.  
-[HTTP 완벽 가이드 [1-3] - HTTP 메시지 - (2)](https://github.yurimkoo.io/http/2019/08/08/http-the-definitive-guide-1-3-2.html) 편 바로가기 
+[HTTP 완벽 가이드 [1-3] - HTTP 메시지 - (2)](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-3-2.html) 편 바로가기 
 
 <br>
