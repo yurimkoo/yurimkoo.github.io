@@ -10,7 +10,19 @@ tags:
   - Web
   - HTTP The Definitive Guide
   - 네트워크
-  
+  - Connection
+  - HTTP Connection 
+  - HTTP 커넥션
+  - 커넥션 관리 
+  - 지속 커넥션 
+  - 파이프라인 커넥션
+  - TCP 커넥션 
+  - 순차 커넥션
+  - Serial Connection
+  - Persistent Connection
+  - Pipelined Connection
+  - Pipelined, Persistent Connection 
+  - TCP Connection 
 comments: true
 ---
 
