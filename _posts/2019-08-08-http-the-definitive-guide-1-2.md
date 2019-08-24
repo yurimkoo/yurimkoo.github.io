@@ -25,6 +25,16 @@ comments: true
 
 <br>
 
+**HTTP 시리즈**
+
+- [HTTP 완벽 가이드 [1-1] - HTTP 개관](https://yurimkoo.github.io/http/2019/07/30/http-the-definitive-guide-1-1.html)  
+- HTTP 완벽 가이드 [1-2] - URL과 리소스
+- [HTTP 완벽 가이드 [1-3] - HTTP 메시지 - (1)](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-3-1.html)  
+- [HTTP 완벽 가이드 [1-3] - HTTP 메시지 - (2)](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-3-2.html)  
+- [HTTP 완벽 가이드 [1-4] - 커넥션 관리](https://yurimkoo.github.io/http/2019/08/23/http-the-definitive-guide-1-4.html)  
+
+<br>
+
 ------
 # 1부. HTTP: 웹의 기초 
 ## 2장. URL과 리소스 
