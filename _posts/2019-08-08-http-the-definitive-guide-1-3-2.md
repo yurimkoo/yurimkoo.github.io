@@ -23,6 +23,7 @@ comments: true
 
 '[HTTP 완벽가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966261208)' 책의 내용을 요약 정리한 시리즈입니다.  
 (사진 출처: 인터넷 교보문고)
+
 <figure>
   <img data-action="zoom" src='{{ "/assets/img/http-1-1/1-0.png" | relative_url }}' alt='absolute'>
 </figure>
