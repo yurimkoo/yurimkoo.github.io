@@ -115,7 +115,7 @@ status</code></pre>
 
 이제 MySQL 설정까지 모두 끝났으니 실제로 DB를 생성해 데이터를 넣는 작업을 할 것입니다.  
 DB를 만들고 데이터를 넣는 방법은 크게 3가지입니다.  
-- 터미널 MySQL 서버에서 직접 실행
+- 터미널에서 직접 실행
 - Python, R 등 다른 언어와 연동해서 사용 
 - DB 툴 사용 
 
@@ -156,7 +156,7 @@ DB에 접속하는 세 가지 방법 중 TCP/IP를 사용해 접속하도록 하
 `+` 버튼을 누른 뒤 마음에 드는 이름을 쓰면 바로 테이블이 완성됩니다.  
 그 다음, Table Structure에서 필드와 필드값 등을 자유자재로 설정해주면 됩니다.  
 
-단, 주소DB는 필드가 많고 데이터의 첫 줄에 필드명이 기입되어 있지 않아, GUI로 설정해도 좋지만 SQL DDL(Data Definition Language)를 사용해보겠습니다. 일단 간단하게 주소DB의 지번 주소 데이터만 넣을 것이므로 Primary Key와 Foreign Key 설정은 무시하겠습니다.  
+단, 주소DB는 필드가 많고 데이터의 첫 줄에 필드명이 기입되어 있지 않아, GUI로 설정해도 좋지만 SQL DDL(Data Definition Language)를 사용해보겠습니다. 일단 간단하게 주소DB의 지번 주소 데이터만 넣을 것이므로 DB 레이아웃의 Primary Key와 Foreign Key 설정은 무시하겠습니다.  
 
 <pre><code>CREATE TABLE `busan-jibun` (
 	관리번호 VARCHAR(25) NOT NULL,
@@ -198,8 +198,6 @@ DB에 접속하는 세 가지 방법 중 TCP/IP를 사용해 접속하도록 하
 </figure>
 
 <br>
-
------
 
 클릭 몇 번 만으로 손쉽게 나만의 DB 테이블을 만들고,  
 몇 십 만에서 몇 백 만개의 데이터를 짧은 시간 안에 DB에 저장하는 방법을 알아봤습니다.  
