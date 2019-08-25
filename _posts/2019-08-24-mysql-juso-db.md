@@ -3,7 +3,7 @@ layout: post
 title: "도로명주소 개발자센터의 오픈 데이터를 이용해 MySQL 주소DB 구축하기 (DB 툴 추천 - Sequel Pro)"
 author: Yurim Koo
 categories:
-  - Python
+  - DB
 tags:
   - MySQL
   - MySQL install 
