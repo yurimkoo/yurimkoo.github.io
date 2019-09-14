@@ -96,7 +96,7 @@ SQL은 세 가지 큰 범주의 언어로 나뉩니다.
 
 #### cursor 설정 - cursor()
 
-<pre><code>juso_db_cursor = juso_db.cursor(pymysql.cursors.DictCursor)</code></pre>
+<pre><code>cursor = juso_db.cursor(pymysql.cursors.DictCursor)</code></pre>
 
 연결한 DB와 상호작용하기 위해 `cursor` 객체를 생성해주어야 합니다.  
 
@@ -224,7 +224,7 @@ juso_db.commit()</code></pre>
 
 <br>
 
-**Tip. execute()/executemany()에 Placeholder 사용하기**
+### Tip. execute()/executemany()에 Placeholder 사용하기
 
 만약 DB내 데이터에 대해 대량 삽입/변경/삭제가 필요한데, 조건이 다 다르다면?  
 **Placeholder**를 이용할 수 있습니다!  
@@ -247,7 +247,7 @@ Placeholder의 특징은,
 
 예시를 들어보겠습니다.  
 
-**1) `execute()`**
+#### 1) `execute()`
 
 <pre><code>data = ('ramen', 1)
 
@@ -264,7 +264,7 @@ db.commit()
 문자열 값이여도 %s를 따옴표로 감싸지 않아도 됩니다.  
 `%s` 위치대로 `data`가 구성되어야 제대로 동작하니 유의하세요!  
 
-**2) `executemany()`**
+#### 2) `executemany()`
 
 <pre><code>data = [['ramen', 1], ['fried rice', 2], ['chicken', 3]]
 
