@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[프로그래머스] 해시(Hash) - Lv.1 - 완주하지 못한 선수 (Python) / zip()"
+title: "[프로그래머스] 해시(Hash) - Lv.1 - 완주하지 못한 선수 (Python) / zip"
 author: Yurim Koo
 categories:
   - Algorithm
