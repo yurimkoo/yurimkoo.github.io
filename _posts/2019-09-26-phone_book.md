@@ -98,7 +98,9 @@ else:
 # 반복문 사용 O
 for x in phone_book:
   if bool(re.search("^" + min, x)):
-      return False
+    return False
+  else:
+    return True
 </code></pre>
 
 물론 이 외에도 다양한 방법이 있다는 것! 잊지 마세요 :D  
