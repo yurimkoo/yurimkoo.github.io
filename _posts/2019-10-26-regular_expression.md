@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "정규표현식 이해하기"
+title: "정규표현식 (Regural Expression) 이해하기"
 author: Yurim Koo
 categories:
   - Analytics

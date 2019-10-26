@@ -83,7 +83,7 @@ comments: true
 이 방법 외에도 `startswith()`를 사용하는 등의 다른 방법도 다양하게 있습니다.  
 
 만약 정규표현식을 사용하게 된다면 아래와 같은 풀이도 가능하겠네요.  
-(정규표현식에 대한 포스팅은 준비중입니다! :))
+(정규표현식 포스팅 [보러가기](https://yurimkoo.github.io/analytics/2019/10/26/regular_expression.html))
 <pre><code>import re
 
 phone_book.sort()
