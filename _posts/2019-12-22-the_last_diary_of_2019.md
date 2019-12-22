@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019년을 돌아보며 - 2019년 하반기 회고 및 다짐"
+title: "2019년을 돌아보며 - 2019년 하반기 회고 및 2020년 다짐"
 author: Yurim Koo
 categories:
   - Diary
@@ -180,7 +180,7 @@ comments: true
 <br>
 
 다재다능한, 항상 즐거운 내가 될 것이라 다짐하며 2019년 하반기 회고를 마친다.  
-
+HAPPY NEW YEAR 🌈
 
 <br>
 
