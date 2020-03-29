@@ -317,6 +317,14 @@ pre code.hljs {
 				text-align: right;
 			}
 		}
+		blockquote {
+			border-left: solid 5px #dbdfe4;
+			padding-left: 8px;
+			padding-top: 8px;
+    		padding-bottom: 8px;
+			background-color: #80808014;
+			font-size: 13px;
+		}
 	}
 	/*
 	*	Pages
