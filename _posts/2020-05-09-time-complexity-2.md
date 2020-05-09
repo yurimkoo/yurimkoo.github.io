@@ -46,7 +46,7 @@ comments: true
 
 -----
 
-**▶ 1편 [알고리즘의 시간 복잡도 분석 (1) - 시간 복잡도와 수행 시간](https://yurimkoo.github.io/algorithm/2020-05-09-time-complexity-1.md) 보고 오기**
+**▶ 1편 [알고리즘의 시간 복잡도 분석 (1) - 시간 복잡도와 수행 시간](https://yurimkoo.github.io/algorithm/2020/05/09/time-complexity-1.html) 보고 오기**
 
 <br>
 <br>

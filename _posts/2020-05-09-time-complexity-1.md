@@ -122,7 +122,7 @@ comments: true
 
 <br>
 
-**▶ 2편 [알고리즘의 시간 복잡도 분석 (2) - 빅오표기법 (Big-O Notation)](https://yurimkoo.github.io/algorithm/2020-05-09-time-complexity-2.md) 바로 가기**
+**▶ 2편 [알고리즘의 시간 복잡도 분석 (2) - 빅오표기법 (Big-O Notation)](https://yurimkoo.github.io/algorithm/2020/05/09/time-complexity-2.html) 바로 가기**
 
 <br>
 
