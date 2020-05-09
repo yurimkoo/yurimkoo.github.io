@@ -42,7 +42,7 @@ comments: true
 
 <img src="https://image.aladin.co.kr/product/2108/91/cover500/8966260543_1.jpg" width="20%" height="20%" title="알고리즘 문제 해결 전략" style="display: inline;">
 
-이 포스팅은 [알고리즘 문제 해결 전략](https://image.aladin.co.kr/product/2108/91/cover500/8966260543_1.jpg) 책을 공부한 후 작성한 것입니다.
+이 포스팅은 [알고리즘 문제 해결 전략](https://book.algospot.com/index.html) 책을 공부한 후 작성한 것입니다.
 
 -----
 
