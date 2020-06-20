@@ -1,11 +1,34 @@
 ---
 layout: post
-title: "랜덤표본추출과 표본편향"
+title: "데이터와 표본분포 - (1) 표본추출과 편향"
 author: Yurim Koo
 categories:
   - Analytics
 tags:
-  - 
+  - 표본
+  - 표본 추출
+  - 표본 편향
+  - 편향
+  - 오차 
+  - 랜덤표본추출
+  - 모집단
+  - 샘플
+  - 복원추출
+  - 비복원추출
+  - 층화표본추출
+  - 편향에 따른 오류
+  - 데이터 과학을 위한 통계
+  - 데이터와 표본분포
+  - sample
+  - sampling
+  - sample bias
+  - bias
+  - error
+  - population
+  - random sampling
+  - stratified sampling
+  - simple random sample
+  - Practical Statistics for Data Scientist
 comments: true
 ---
 
